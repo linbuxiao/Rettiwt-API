@@ -13,10 +13,10 @@ export interface IAuthCookie {
 	ct0: string;
 
 	/** Token used to authenticate a device. */
-	kdt: string;
+	// kdt: string;
 
 	/** Token used to authenticate a user using a Twitter ID. */
-	twid: string;
+	// twid: string;
 
 	/* eslint-enable @typescript-eslint/naming-convention */
 }
